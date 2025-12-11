@@ -56,24 +56,32 @@ I enjoy building projects that strengthen my skills across cybersecurity, progra
 ## 📌 Featured Projects
 
 ### 🔐 Machine Learning Phishing Detection System
+
 A machine learning model that identifies malicious URLs using lexical features, feature engineering, and classification algorithms (Random Forest, Logistic Regression).  
+
 **Accuracy:** ~98%  
+
 **Skills:** Python, ML, Scikit-learn, Data Analysis  
+
 ➡️ *https://github.com/Nrossi8/phishing-detection-ml*
 
 ---
 
 ### 🌎 Blue Skies Manhattan – Nonprofit Website
-Multi-page website built for an environmental organization using HTML, CSS, and JavaScript. Includes hero banner, mission page, responsive design, and accessible layout.  
-➡️ Live Demo: *https://nrossi8.github.io/Blue-Skies-Manhattan-Website/*
-➡️ Repository: *https://github.com/Nrossi8/Blue-Skies-Manhattan-Website*
+
+Multi-page website built for an environmental organization using HTML, CSS, and JavaScript. Includes hero banner, mission page, responsive design, and accessible layout.
+➡️ Live Demo: https://nrossi8.github.io/Blue-Skies-Manhattan-Website/
+
+➡️ Repository: https://github.com/Nrossi8/Blue-Skies-Manhattan-Website
 
 ---
 
-###🏋️ Forward Fitness Club – Responsive Gym Website (Course Project)
-Multi-page mock website for a fictional fitness club, built with HTML, CSS, and JavaScript. Includes responsive navigation (hamburger menu), embedded video and audio, contact form, and JS-powered interactive features like exercise demos and promo code display. 
-➡️ Live Demo: *https://nrossi8.github.io/Forward-Fitness-Club-Website/*
-➡️ Repository: *https://github.com/Nrossi8/Forward-Fitness-Club-Website*
+### 🏋️ Forward Fitness Club – Responsive Gym Website (Course Project)
+
+Multi-page mock website for a fictional fitness club, built with HTML, CSS, and JavaScript. Includes responsive navigation (hamburger menu), embedded video/audio, a contact form, and JavaScript-driven exercise demos and promo code functionality.
+➡️ Live Demo: https://nrossi8.github.io/Forward-Fitness-Club-Website/
+
+➡️ Repository: https://github.com/Nrossi8/Forward-Fitness-Club-Website
 
 ---
 
