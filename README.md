@@ -70,6 +70,7 @@ A machine learning model that identifies malicious URLs using lexical features, 
 ### 🌎 Blue Skies Manhattan – Nonprofit Website
 
 Multi-page website built for an environmental organization using HTML, CSS, and JavaScript. Includes hero banner, mission page, responsive design, and accessible layout.
+
 ➡️ Live Demo: https://nrossi8.github.io/Blue-Skies-Manhattan-Website/
 
 ➡️ Repository: https://github.com/Nrossi8/Blue-Skies-Manhattan-Website
@@ -79,6 +80,7 @@ Multi-page website built for an environmental organization using HTML, CSS, and 
 ### 🏋️ Forward Fitness Club – Responsive Gym Website (Course Project)
 
 Multi-page mock website for a fictional fitness club, built with HTML, CSS, and JavaScript. Includes responsive navigation (hamburger menu), embedded video/audio, a contact form, and JavaScript-driven exercise demos and promo code functionality.
+
 ➡️ Live Demo: https://nrossi8.github.io/Forward-Fitness-Club-Website/
 
 ➡️ Repository: https://github.com/Nrossi8/Forward-Fitness-Club-Website
