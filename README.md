@@ -3,7 +3,7 @@
 ## 🛡️ Cybersecurity Student | ISC² Member | NECCDC Team Member | NCL Top Performer  
 **Pace University — B.S. Cybersecurity, Minor in Business**
 
-🔐 Ranked 639 / 7,876 nationwide in National Cyber League and 1st in Pace University's Cybersecurity Club (Fall 2025)  
+🔐 Ranked 639th out of 7,876 nationwide in National Cyber League and 1st in Pace University's Cybersecurity Club (Fall 2025)  
 🔐 NECCDC Cyber Defense Team Member; advancing to regional competition  
 ✅ ISC² Certified in Cybersecurity (CC)
 
