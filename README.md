@@ -3,8 +3,8 @@
 ## 🛡️ Cybersecurity Student | ISC² Member | NECCDC Team Member | NCL Top Performer  
 **Pace University — B.S. Cybersecurity, Minor in Business**
 
-🔐 Ranked **639 / 7,876 nationwide** in National Cyber League (Fall 2025)  
-🔐 Ranked **1st in Pace University's Cybersecurity Club**  
+🔐 Ranked **639 / 7,876 nationwide** in National Cyber League and **1st** in Pace University's Cybersecurity Club (Fall 2025)  
+🔐 **NECCDC Cyber Defense Team Member**; advanced to regional competition, contributing to defensive security operations and incident response
 ✅ ISC² Certified in Cybersecurity (CC)
 
 
@@ -39,10 +39,10 @@ https://nrossi8.github.io/Portfolio-Website
 - Reconnaissance & Enumeration  
 
 ### 💻 Programming
-- Python  
-- Java  
-- C, C++, C#  
-- Bash  
+- Python
+- SQL 
+- C, C++, C#
+- Java   
 
 ### ⚙️ Tools & Technologies
 - Wireshark  
