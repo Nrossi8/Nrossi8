@@ -7,7 +7,6 @@
 🔐 **NECCDC Cyber Defense Team Member**; advanced to regional competition, contributing to defensive security operations and incident response
 ✅ ISC² Certified in Cybersecurity (CC)
 
-
 ---
 
 ## 🌟 About Me
