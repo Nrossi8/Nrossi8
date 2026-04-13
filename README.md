@@ -1,10 +1,10 @@
 # 👋 Hi, I'm **Nicolas Rossi**
 
 ## 🛡️ Cybersecurity Student | ISC² Member | NECCDC Team Member | NCL Top Performer  
-**Pace University — B.S. Cybersecurity, Minor in Business**
+**Pace University — B.S. Cybersecurity, Minor in Italian Studies**
 
 🔐 Ranked 639th out of 7,876 nationwide in National Cyber League and 1st in Pace University's Cybersecurity Club (Fall 2025)  
-🔐 NECCDC Cyber Defense Team Member; advancing to regional competition  
+🔐 NECCDC Cyber Defense Team Member; advanced to regional competition
 ✅ ISC² Certified in Cybersecurity (CC)
 
 ---
