@@ -50,7 +50,7 @@ https://nrossi8.github.io/Portfolio-Website
 - Windows / macOS  
 - Git & GitHub  
 
-### 🌐 Web Development
+### Web Development
 - HTML  
 - CSS  
 - JavaScript  
