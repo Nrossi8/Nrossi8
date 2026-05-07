@@ -1,15 +1,15 @@
-# 👋 Hi, I'm **Nicolas Rossi**
+# Hi, I'm **Nicolas Rossi**
 
-## 🛡️ Cybersecurity Student | ISC² Member | NECCDC Team Member | NCL Top Performer  
+## Cybersecurity Student | ISC² Member | NECCDC Team Member | NCL Top Performer  
 **Pace University — B.S. Cybersecurity, Minor in Italian Studies**
 
-🔐 Ranked 639th out of 7,876 nationwide in National Cyber League and 1st in Pace University's Cybersecurity Club (Fall 2025)  
-🔐 NECCDC Cyber Defense Team Member; advanced to regional competition
-✅ ISC² Certified in Cybersecurity (CC)
+Ranked 639th out of 7,876 nationwide in the National Cyber League and 1st in Pace University's Cybersecurity Club (Fall 2025)  
+NECCDC Cyber Defense Team Member; advanced to regional competition
+ISC² Certified in Cybersecurity (CC)
 
 ---
 
-## 🌟 About Me
+## About Me
 I’m a cybersecurity student focused on defensive security, incident response, machine learning for threat detection, and hands-on problem-solving through cyber competitions and technical projects.
 
 I currently work at Pace University’s ITS Tech Zone, supporting students and faculty with technical troubleshooting across Windows, macOS, networks, and enterprise systems.
@@ -18,14 +18,14 @@ I enjoy building projects that strengthen my skills across cybersecurity, progra
 
 ---
 
-🌐 **Portfolio Website (Live)**  
+**Portfolio Website (Live)**  
 https://nrossi8.github.io/Portfolio-Website
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 🔐 Cybersecurity
+### Cybersecurity
 - Network Security  
 - OSINT  
 - Log Analysis  
@@ -37,13 +37,13 @@ https://nrossi8.github.io/Portfolio-Website
 - Web Application Security  
 - Reconnaissance & Enumeration  
 
-### 💻 Programming
+### Programming
 - Python
 - SQL 
 - C, C++, C#
 - Java   
 
-### ⚙️ Tools & Technologies
+### Tools & Technologies
 - Wireshark  
 - Nmap  
 - Linux (Kali, Ubuntu)  
@@ -58,9 +58,9 @@ https://nrossi8.github.io/Portfolio-Website
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔐 Machine Learning Phishing Detection System
+### Machine Learning Phishing Detection System
 
 A machine learning model that identifies malicious URLs using lexical features, feature engineering, and classification algorithms (Random Forest, Logistic Regression).  
 
@@ -68,17 +68,17 @@ A machine learning model that identifies malicious URLs using lexical features, 
 
 **Skills:** Python, ML, Scikit-learn, Data Analysis  
 
-➡️ *https://github.com/Nrossi8/phishing-detection-ml*
+*https://github.com/Nrossi8/phishing-detection-ml*
 
 ---
 
-### 🌎 Blue Skies Manhattan – Nonprofit Website
+### Blue Skies Manhattan – Nonprofit Website
 
 Multi-page website built for an environmental organization using HTML, CSS, and JavaScript. Includes hero banner, mission page, responsive design, and accessible layout.
 
-➡️ Live Demo: https://nrossi8.github.io/Blue-Skies-Manhattan-Website/
+Live Demo: https://nrossi8.github.io/Blue-Skies-Manhattan-Website/
 
-➡️ Repository: https://github.com/Nrossi8/Blue-Skies-Manhattan-Website
+Repository: https://github.com/Nrossi8/Blue-Skies-Manhattan-Website
 
 ---
 
@@ -86,13 +86,13 @@ Multi-page website built for an environmental organization using HTML, CSS, and 
 
 Multi-page mock website for a fictional fitness club, built with HTML, CSS, and JavaScript. Includes responsive navigation (hamburger menu), embedded video/audio, a contact form, and JavaScript-driven exercise demos and promo code functionality.
 
-➡️ Live Demo: https://nrossi8.github.io/Forward-Fitness-Club-Website/
+Live Demo: https://nrossi8.github.io/Forward-Fitness-Club-Website/
 
-➡️ Repository: https://github.com/Nrossi8/Forward-Fitness-Club-Website
+Repository: https://github.com/Nrossi8/Forward-Fitness-Club-Website
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - **LinkedIn:** *www.linkedin.com/in/nicolas-rossi2228462333*  
 - **Email:** *ngrossi46@gmail.com*  
 
